@@ -1,5 +1,4 @@
-*this is a test*
-**this is a test**
+***this is a test***
 # this is a test
 ## this is a test
 [this is a test](https://ucsd-cse15l-s23.github.io/)
@@ -9,7 +8,6 @@
 * this is a test2
 1. this is a test1
 2. this is a test2
-horizontal rule:
 ---
 `this is a test`
 ```
