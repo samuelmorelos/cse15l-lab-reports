@@ -1,5 +1,1 @@
-layout: page
-title: "Index"
-permalink: /index
-
-Aa
+**Find submissions in chronological order below:**
