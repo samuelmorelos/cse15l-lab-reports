@@ -34,6 +34,7 @@ Ex: `$ cd some-files`
 Ex: `$ find */some-files > files.txt`\
 This example takes the contents of some-files and prints it into a new file called files.txt
 
-"Grep" search files for the given string and print matching lines: `grep string files`\
+"Grep" search files for the given string and print matching lines: `grep string file-1 optional-file-2`\
 Ex: `$ grep even some-files-list.txt`\
 This example searches inside some-files-list.txt for any lines containing "even"
+
