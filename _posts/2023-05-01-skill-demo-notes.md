@@ -8,7 +8,7 @@
 Remotely Connecting: `ssh remote-server`\
 Ex: `$ ssh cs15lsp23cu@ieng6.ucsd.edu`
 
-Cloning a Repository: `git clone repository-url`\
+Cloning a Repository: `git clone repository-url optional-location`\
 Ex: `$ git clone https://github.com/ucsd-cse15l-s23/stringsearch`
 
 Webpage from Terminal: `curl website-url`\
