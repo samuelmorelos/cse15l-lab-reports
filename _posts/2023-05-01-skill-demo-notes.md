@@ -16,3 +16,8 @@ Ex: `$ curl http://ieng6-202.ucsd.edu:4005/search?q=on`
 
 ## Terminal Commands
 ### Lab 1
+"Concatenate" print the contents of files: `cat path1 optional-path2...`
+Ex: `$ cat`
+
+"List" lists files and folders in the path: `ls path`
+Ex: `$ ls`
