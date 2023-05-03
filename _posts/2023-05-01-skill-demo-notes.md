@@ -16,13 +16,13 @@ Ex: `$ curl http://ieng6-202.ucsd.edu:4005/search?q=on`
 
 ## Terminal Commands
 ### Lab 1
-"Concatenate" print the contents of files: `cat path1 optional-path2...`
+"Concatenate" print the contents of files: `cat path1 optional-path2...`\
 Ex: `$ cat Read.java`
 
-"List" lists files and folders in the path: `ls path`
+"List" lists files and folders in the path: `ls path`\
 Ex: `$ ls some-files`
 
 "Print working directory" display the current directory: `pwd`
 
-"Change directory" switch the current directory to the given path `cd path`
+"Change directory" switch the current directory to the given path `cd path`\
 Ex: `$ cd some-files`
