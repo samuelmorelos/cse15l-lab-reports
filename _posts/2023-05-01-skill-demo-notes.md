@@ -38,3 +38,5 @@ This example takes the contents of some-files and prints it into a new file call
 Ex: `$ grep even some-files-list.txt`\
 This example searches inside some-files-list.txt for any lines containing "even"
 
+"WC" prints the number of lines, words, and characters in a file or files: `wc file-1 optional-file-2`\
+Ex: `$ wc some-files-list.txt` which outputs `8   8   257 some-files-list.txt`
