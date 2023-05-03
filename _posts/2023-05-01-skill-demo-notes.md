@@ -3,7 +3,7 @@
 [Github Website](https://yourcousinfrog.github.io/cse15l-lab-reports/)\
 [Markdown Reference](https://commonmark.org/help/)
 
-## Remote Commands:
+## Remote Commands
 
 Remotely Connecting: `ssh remote-server`\
 Ex: `$ ssh cs15lsp23cu@ieng6.ucsd.edu`
@@ -11,5 +11,8 @@ Ex: `$ ssh cs15lsp23cu@ieng6.ucsd.edu`
 Cloning a Repository: `git clone repository-url`\
 Ex: `$ git clone https://github.com/ucsd-cse15l-s23/stringsearch`
 
-## Terminal Commands:
-### Lab 1:
+Webpage from Terminal: `curl website-url`\
+Ex: \$ curl `http://ieng6-202.ucsd.edu:4005/search?q=on`
+
+## Terminal Commands
+### Lab 1
