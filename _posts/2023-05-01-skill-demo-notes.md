@@ -12,7 +12,7 @@ Cloning a Repository: `git clone repository-url`\
 Ex: `$ git clone https://github.com/ucsd-cse15l-s23/stringsearch`
 
 Webpage from Terminal: `curl website-url`\
-Ex: \$ curl `http://ieng6-202.ucsd.edu:4005/search?q=on`
+Ex: `$ curl http://ieng6-202.ucsd.edu:4005/search?q=on`
 
 ## Terminal Commands
 ### Lab 1
