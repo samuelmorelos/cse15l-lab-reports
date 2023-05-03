@@ -14,6 +14,9 @@ Ex: `$ git clone https://github.com/ucsd-cse15l-s23/stringsearch`
 Webpage from Terminal: `curl website-url`\
 Ex: `$ curl http://ieng6-202.ucsd.edu:4005/search?q=on`
 
+Secure Copy: `scp file-1 optional-file-2 desired-location`\
+Ex: `$ scp message.txt cs15lsp23cu@ieng6.ucsd.edu:~/test-dir/`
+
 ## Terminal Commands
 ### Lab 1
 "Concatenate" print the contents of files: `cat path1 optional-path2...`\
@@ -26,3 +29,5 @@ Ex: `$ ls some-files`
 
 "Change directory" switch the current directory to the given path `cd path`\
 Ex: `$ cd some-files`
+
+"
