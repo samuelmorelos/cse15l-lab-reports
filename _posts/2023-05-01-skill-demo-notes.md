@@ -33,3 +33,7 @@ Ex: `$ cd some-files`
 "Find" recursively traverse the given path and list all files in the directory and subdirectories: `find path`\
 Ex: `$ find */some-files > files.txt`\
 This example takes the contents of some-files and prints it into a new file called files.txt
+
+"Grep" search files for the given string and print matching lines: `grep string files`\
+Ex: `$ grep even some-files-list.txt`\
+This example searches inside some-files-list.txt for any lines containing "even"
