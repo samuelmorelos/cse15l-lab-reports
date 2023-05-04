@@ -5,7 +5,7 @@
 
 ## Remote Commands
 
-* Remotely Connecting: `ssh remote-server`\
+* **Remotely Connecting:** `ssh remote-server`\
   Ex: `$ ssh cs15lsp23cu@ieng6.ucsd.edu`
 
 * Cloning a Repository: `git clone repository-url optional-location`\
