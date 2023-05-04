@@ -33,6 +33,8 @@
 * **"Find"** recursively traverse the given path and list all files in the directory and subdirectories: `find path`\
   Ex: `$ find */some-files > files.txt`\
   This example takes the contents of some-files and prints it into a new file called files.txt
+  Ex: `$ find /somefiles -name "*.txt"
+  This example will print out all the files that end in .txt
 
 * **"Grep"** search files for the given string and print matching lines: `grep string file-1 optional-file-2`\
   Ex: `$ grep even some-files-list.txt`\
