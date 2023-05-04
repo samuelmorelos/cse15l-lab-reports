@@ -39,5 +39,9 @@
   This example searches inside some-files-list.txt for any lines containing "even"
 
 * **"Wc"** prints the number of lines, words, and characters in a file or files: `wc file-1 optional-file-2`\
-  Ex: `$ wc some-files-list.txt` which outputs `8   8   257 some-files-list.txt`
+  Ex: `$ wc some-files-list.txt` which outputs `8   8   257 some-files-list.txt`\
   The first 8 is # of lines, the second 8 is # of words, and 257 is # of characters
+
+* **"Echo"** print the arguments to the terminal: `echo argument-1 optional-arg-2`\
+  Ex: `$ echo Rana > frog.txt`\
+  This example prints Rana into a new file called frog.txt
