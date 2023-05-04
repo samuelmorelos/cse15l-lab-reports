@@ -18,7 +18,7 @@ Secure Copy: `scp file-1 optional-file-2 desired-location`\
 Ex: `$ scp message.txt cs15lsp23cu@ieng6.ucsd.edu:~/test-dir/`
 
 ## Terminal Commands
-### Lab 1
+
 "Concatenate" print the contents of files: `cat path1 optional-path2...`\
 Ex: `$ cat Read.java`
 
