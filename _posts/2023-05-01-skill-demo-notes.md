@@ -30,7 +30,7 @@
 * **"Change directory"** switch the current directory to the given path `cd path`\
   Ex: `$ cd some-files`
 
-* **"Find"** recursively traverse the given path and list all files in the directory and subdirectories: `find path`\
+* **"Find"** recursively traverse the given path and list all files in the dir and subdirs: `find path`\
   Ex: `$ find */some-files > files.txt`\
   This example takes the contents of some-files and prints it into a new file called files.txt\
   Ex: `$ find /somefiles -name "*.txt"\
