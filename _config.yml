@@ -2,4 +2,4 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
 title: Samuel Morelos
 description: CSE 15L Submissions
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+favicon: <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
